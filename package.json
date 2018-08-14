@@ -1,7 +1,6 @@
 {
   "name": "angular-template",
   "description": "",
-  "homepage": "https://stackblitz.com/edit/angular-6-template-driven-form-validation",
   "dependencies": {
     "@angular/animations": "6.0.0",
     "@angular/cdk": "^6.0.0",
